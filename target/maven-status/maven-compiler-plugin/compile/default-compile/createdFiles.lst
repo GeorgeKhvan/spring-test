@@ -1,0 +1,6 @@
+com\springtest\controllers\UserController.class
+com\springtest\domain\User.class
+com\springtest\services\UserServiceImpl.class
+com\springtest\repository\UserRepository.class
+com\springtest\DemoApplication.class
+com\springtest\services\UserService.class
